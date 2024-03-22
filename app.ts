@@ -1,4 +1,8 @@
+#! /usr/bin/env node
+
 import inquirer  from "inquirer";
+
+console.log("\nA Simple Calculator By Saba Hussain\n")
 
 // Input from the user
 
